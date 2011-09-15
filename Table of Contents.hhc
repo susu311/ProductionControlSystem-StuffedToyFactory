@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stuffed Toys Help">
+		<param name="Local" value="Help File\help.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="File">
+		<param name="Local" value="Help File\File.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Change Login">
+			<param name="Local" value="Help File\File_LoginChange.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Password Manager">
+			<param name="Local" value="Help File\File_PasswordManager.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Login">
+			<param name="Local" value="Help File\Login.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Entry Process">
+		<param name="Local" value="Help File\Entry.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Category">
+			<param name="Local" value="Help File\EntryCategory.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer">
+			<param name="Local" value="Help File\EntryCustomer.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Employees">
+			<param name="Local" value="Help File\EntryEmployees.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Items">
+			<param name="Local" value="Help File\EntryItem.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Post">
+			<param name="Local" value="Help File\EntryPost.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Supplier">
+			<param name="Local" value="Help File\EntrySupplier.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Process">
+		<param name="Local" value="Help File\Process.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Cutting">
+			<param name="Local" value="Help File\Cutting.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Design">
+			<param name="Local" value="Help File\Design.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Order">
+			<param name="Local" value="Help File\Order.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Order Receipt">
+			<param name="Local" value="Help File\OrderReceipt.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Delivery">
+			<param name="Local" value="Help File\Delivery.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Packaging">
+			<param name="Local" value="Help File\Packaging.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Payment">
+			<param name="Local" value="Help File\Payment.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Purchase.">
+			<param name="Local" value="Help File\Purchase.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Sewing">
+			<param name="Local" value="Help File\Sewing.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Stuffing">
+			<param name="Local" value="Help File\Stuffing.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Search">
+		<param name="Local" value="Help File\Search.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Annually Order Recipt">
+			<param name="Local" value="Help File\Search_AnnuallyOrderReceipt.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer Information">
+			<param name="Local" value="Help File\Search_CustomerInfo.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Cutting Information">
+			<param name="Local" value="Help File\Search_CuttingInfo.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Employees Information">
+			<param name="Local" value="Help File\Search_Employees.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Item Information">
+			<param name="Local" value="Help File\Search_ItemInfo.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Jobs">
+			<param name="Local" value="Help File\Search_Jobs.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Monthly Order Receipt">
+			<param name="Local" value="Help File\Search_MonthlyOrderReceipt.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Orders">
+			<param name="Local" value="Help File\Search_Orders.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Packaging Information">
+			<param name="Local" value="Help File\Search_PackagingInfo.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Purchases">
+			<param name="Local" value="Help File\Search_Purchases.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Sewing Information">
+			<param name="Local" value="Help File\Search_SewingInfo.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Stuffing Information">
+			<param name="Local" value="Help File\Search_StuffingInfo.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

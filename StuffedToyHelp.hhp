@@ -1,0 +1,37 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=StuffedToyHelp.chm
+Contents file=Table of Contents.hhc
+Default topic=Help File\help.html
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=Stuffed Toys Help
+
+
+[FILES]
+Help File\Stuffing.html
+Help File\Cutting.html
+Help File\Delivery.html
+Help File\Design.html
+Help File\Entry.html
+Help File\EntryCategory.html
+Help File\EntryCustomer.html
+Help File\EntryEmployees.html
+Help File\EntryItem.html
+Help File\EntryPost.html
+Help File\EntrySupplier.html
+Help File\help.html
+Help File\Login.html
+Help File\Order.html
+Help File\OrderReceipt.html
+Help File\Packaging.html
+Help File\Payment.html
+Help File\Process.html
+Help File\Purchase.html
+Help File\Report.html
+Help File\Search.html
+Help File\Sewing.html
+
+[INFOTYPES]
+
